@@ -1,0 +1,35 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/avidor/Development/code/instructor/learn-labs/tic-tac-toe-rb-q-000/lib/tic_tac_toe.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        null,
+        null,
+        1,
+        2,
+        2,
+        2,
+        null,
+        null,
+        null,
+        1,
+        4,
+        null,
+        null,
+        1,
+        5,
+        null
+      ]
+    },
+    "timestamp": 1458063220
+  }
+}
